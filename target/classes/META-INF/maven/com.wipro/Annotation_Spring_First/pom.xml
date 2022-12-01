@@ -23,4 +23,7 @@
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
+	<build>
+        <finalName>Spring_First</finalName>
+  </build>
 </project>
